@@ -22,7 +22,6 @@ body {
   background-color:rgb(255, 192, 0);
   color: #fff;
   min-height: 90px;
-  padding: 1% 0;
 }
 
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-link {
@@ -146,7 +145,7 @@ a:focus {
   display: flex;
   position: relative;
   height: calc(100vh - 90px);
-  background-image: url(../images/toper-01.jpg);
+  background-image: url(../images/cyber-forensics.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -392,7 +391,7 @@ a:focus {
   align-items: center;
   background-size: cover;
   width: 300px;
-  height: 490px;
+  height: 400px;
   margin: 0 auto;
   z-index: 999;
 }
@@ -544,7 +543,7 @@ a:focus {
 }
 
 .contact_form-container {
-  background-image: url(../images/guards.jpg);
+  background-image: url(../images/vulner_assess.jpg);
 }
 
 .contact_form-container form {
